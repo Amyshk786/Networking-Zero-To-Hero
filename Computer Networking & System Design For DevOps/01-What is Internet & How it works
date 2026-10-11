@@ -53,6 +53,78 @@ Suppose you are in Pune, your friend is in Kashmir, and your other friend is in 
 
 
 
+# Traceroute is a network diagnostic tool that shows the path your data takes from your computer to a destination server, such as GitHub or Google. It helps identify where delays or network problems might occur.
+
+
+# Content Delivery Network (CDN) - CDN stands for Content Delivery Network. It is a network of servers distributed across different geographical locations that deliver website content to users from a server close to them.  For example, when you open YouTube, Netflix, GitHub, or an online shopping website, a CDN can help load images, videos, scripts, and other content faster. [If the Data is in Image form or if the  Data is static data, then CDN will be used]
+
+
+# An Edge Location is a server location close to end users that delivers content and services with lower latency. It is commonly used by CDNs (Content Delivery Networks) such as Cloudflare and Amazon CloudFront. Think of it as a nearby distribution center: instead of shipping everything from a distant warehouse, a company keeps frequently requested items closer to its customers.
+[For example, if a website's origin server is in the United States and you're browsing from India, a CDN may serve images or JavaScript files from an edge location in India. This can reduce the distance the content travels.]
+
+
+
+
+# Difference Between Region, Availability Zone & Local Zone
+
+
+1) Region - A Region is a geographical area where a cloud provider operates infrastructure. Each AWS Region is designed to be isolated from other Regions.
+Examples:
+- Mumbai — ap-south-1
+- Singapore — ap-southeast-1
+- N. Virginia — us-east-1
+- Tokyo — ap-northeast-1
+
+For example, if most of your customers are in India, you might deploy your application in the Mumbai Region to help reduce latency.
+
+
+
+
+2) Availability Zone (AZ) - An Availability Zone is an isolated location within an AWS Region, made up of one or more data centers with independent infrastructure.
+
+A Region has multiple AZs, designed to support fault isolation.
+
+Example: Suppose your application runs in two AZs in Mumbai.
+- AZ A hosts your application servers.
+- AZ B hosts another set of application servers.
+- If AZ A experiences an outage, your application can continue serving users from AZ B, provided you've configured redundancy and failover correctly.
+
+Key point: Deploying across multiple AZs helps protect against a single AZ failure. It does not automatically provide high availability; your application and data must also be configured appropriately.
+
+
+
+
+3) Local Zone - An AWS Local Zone extends selected AWS services closer to users in a particular metropolitan area, while remaining associated with a parent Region.
+
+It is useful when applications need very low latency. Local Zones are not available in every city, and the services offered vary by location.
+
+Examples of workloads include:
+- Real-time gaming
+- Media production and processing
+- Interactive applications
+- Virtual desktops
+- Applications with latency-sensitive workloads
+Imagine your application's main infrastructure is in Mumbai, but you need some computing resources closer to users in another city. A supported Local Zone may help reduce network latency for those users.
+
+
+
+
+
+==============================================================================================================================================================================================================
+
+# Internet Addressing - Internet addressing is the system used to identify devices, networks, and services so that data can travel from a source to a destination across the Internet.
+
+For example, when you open GitHub on your Mac mini M4, several addressing systems work together to connect your browser to GitHub's servers.
+
+
+
+
+
+
+
+
+
+
 
 
 
