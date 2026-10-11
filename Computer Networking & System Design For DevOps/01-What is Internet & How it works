@@ -33,3 +33,40 @@ Suppose you are in Pune, your friend is in Kashmir, and your other friend is in 
 [Bandwidth is the maximum amount of data that can be transmitted over a network connection in a given amount of time.]
 
 [Jitter is the variation in the delay (latency) of data packets as they travel across a network.]
+
+[Packet loss is when some pieces of data sent over a network fail to reach their destination.] Imagine you're sending 100 messages over the internet, but only 95 arrive. The other 5 are lost along the way. That's 5% packet loss.
+
+
+
+
+
+# The Physical Internet
+
+1) Router - It routes the Packet between Network
+
+
+2) Switch - A Switch is a Physical Device in which we can Connect Multiple Devices, Provide Internet in the Switch and this Internet will keep the Multiple Devices connected. This is used in the Data Center.
+
+
+3) Hub - It was previously used as a switch when the switch was not invented.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
