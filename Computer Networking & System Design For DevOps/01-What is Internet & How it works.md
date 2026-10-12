@@ -413,7 +413,11 @@ Answer: 16 total addresses, with 14 conventional usable host addresses.
 
 
 
+================
 
+Domain Name System (DNS) 
+
+https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.F219uDcRLIxZF6LG09hZUAHaDu%3Fr%3D0%26pid%3DApi&f=1&ipt=d732bc41db8f6d6685c2f1dc635f47776a5439fe8f81e3d621b51138b8095834&ipo=images
 
 
 
