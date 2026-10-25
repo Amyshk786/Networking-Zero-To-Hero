@@ -430,10 +430,10 @@ Domain Name System (DNS)
 <img width="474" height="238" alt="image" src="https://github.com/user-attachments/assets/d0165b80-7aac-40c9-96d9-6cab9e1fb5a1" />
 
 
-================================================================================================================
+========================================================================================================
 
 
-# OSI Model Explained in Layman's Terms
+# OSI Model Explained
 
 ## 1. What Is the OSI Model?
 
