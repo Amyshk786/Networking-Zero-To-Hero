@@ -717,7 +717,7 @@ From Layer 7 down to Layer 1:
 **Networking Notes — OSI Model from Scratch**
 
 
-blob:https://chatgpt.com/4f72d752-70bf-484f-b39e-58e30310fbbd
+![Uploading image.png…]()
 
 
 
