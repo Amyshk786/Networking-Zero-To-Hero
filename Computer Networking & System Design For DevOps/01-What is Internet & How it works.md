@@ -1,3 +1,6 @@
+TWS Networking Notes Link - https://d502jbuhuh9wk.cloudfront.net/digital_products/62cd128e0cf2e6a1694683bb/64909ff3aeda092a26b20536/asset/1687199731158/file.pdf
+
+
 Suppose you are in Pune, your friend is in Kashmir, and your other friend is in New York
 
 -> When your computer is not connected to any other computer, then it is called a Standalone
