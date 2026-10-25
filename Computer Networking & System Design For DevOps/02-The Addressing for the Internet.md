@@ -1,7 +1,3 @@
-2) The Addressing for the Internet
-
-
-
 # Internet Addressing - Internet addressing is the system used to identify devices, networks, and services so that data can travel from a source to a destination across the Internet.
 
 For example, when you open GitHub on your Mac mini M4, several addressing systems work together to connect your browser to GitHub's servers.
