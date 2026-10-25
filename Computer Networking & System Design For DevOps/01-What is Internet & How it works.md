@@ -121,6 +121,13 @@ For example, when you open GitHub on your Mac mini M4, several addressing system
 
 
 
+IPv4 has about 4.3 billion addresses · 32 bits
+
+IPv6 has 340 undecillion
+About (3.4 x 10³⁸) addresses · 128 bits
+
+
+
 # Subnetting and CIDR — From Scratch
 
 
