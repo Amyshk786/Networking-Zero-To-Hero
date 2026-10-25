@@ -285,6 +285,6 @@ From Layer 7 down to Layer 1:
 
 # OSI Model Explained
 
-![OSI Model infographic](images/osi-model-infographic.png)
+<img width="1536" height="1024" alt="OSI Model Explained" src="https://github.com/user-attachments/assets/4da94518-37c4-46d8-9248-2e316e03d62f" />
 
 
