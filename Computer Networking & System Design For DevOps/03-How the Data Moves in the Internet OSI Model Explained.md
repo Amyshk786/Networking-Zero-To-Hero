@@ -286,3 +286,5 @@ From Layer 7 down to Layer 1:
 # OSI Model Explained
 
 ![OSI Model infographic](images/osi-model-infographic.png)
+
+
