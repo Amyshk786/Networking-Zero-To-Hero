@@ -717,8 +717,9 @@ From Layer 7 down to Layer 1:
 **Networking Notes — OSI Model from Scratch**
 
 
-![Uploading image.png…]()
+# OSI Model Explained
 
+![OSI Model infographic](images/osi-model-infographic.png)
 
 
 
