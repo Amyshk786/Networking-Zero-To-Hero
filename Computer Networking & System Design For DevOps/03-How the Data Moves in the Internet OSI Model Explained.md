@@ -14,7 +14,7 @@ Think of it like ordering a product online: you place an order, the company proc
 |---|---|---|---|
 | 7 | Application | Network services used by applications | HTTP, DNS, SMTP |
 | 6 | Presentation | Data formatting, encryption, compression | Data formats, encryption functions |
-| 5 | Session | Manages communication sessions | Session management |
+| 5 | Session | Manages communication sessions | Authentication, Session management |
 | 4 | Transport | Delivers data between application endpoints | TCP, UDP, port numbers |
 | 3 | Network | Routes packets between networks | IP addresses, routers |
 | 2 | Data Link | Transfers frames across a local network link | Ethernet, MAC addresses, switches |
